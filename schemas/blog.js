@@ -33,7 +33,7 @@ export default {
         {
             name:"created",
             title:"Created on",
-            type:"datetime"
+            type:"date"
         }
     ]
 }
